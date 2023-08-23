@@ -4,4 +4,4 @@ Sample aplikasi linktree
 
 ## Sample Image
 
-![alt image](sample_image.png)
+![alt image](sample-image.png)
